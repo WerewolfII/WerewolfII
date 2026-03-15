@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Werewolf
 
-<!--
-**WerewolfII/WerewolfII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Software Engineer with experience in **STM32**, **C8051**, and **DSP** chips. 
+I focus on writing efficient, low-level code for embedded systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Microcontrollers:** STM32, C8051, DSP
+- **Operating Systems:** FreeRTOS
+- **Tools:** Keil, CLion, VSCode, ARM-GCC
+- **Platforms:** macOS & Windows
+
+### 📊 GitHub Stats
+
+![Werewolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=WerewolfII&show_icons=true&theme=transparent&hide_border=true)
+
+### 📫 Contact
+
+- **Email:** [yz.he@outlook.com](mailto:yz.he@outlook.com)
