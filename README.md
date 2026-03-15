@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Werewolf
 
 Embedded Software Engineer with experience in **STM32**, **C8051**, and **DSP** chips. 
-I focus on writing efficient, low-level code for embedded systems.
+I focus on writing efficient, low-level code for embedded systems while exploring the integration of **AI-driven workflows** in engineering.
 
 ---
 
@@ -10,7 +10,7 @@ I focus on writing efficient, low-level code for embedded systems.
 - **Microcontrollers:** STM32, C8051, DSP
 - **Operating Systems:** FreeRTOS
 - **Tools:** Keil, CLion, VSCode, ARM-GCC
-- **Platforms:** macOS & Windows
+- **AI & Automation:** Exploring AI personal assistants (OpenClaw) and LLM-assisted coding
 
 ### 📊 GitHub Stats
 
@@ -18,4 +18,4 @@ I focus on writing efficient, low-level code for embedded systems.
 
 ### 📫 Contact
 
-- **Email:** [yz.he@outlook.com](mailto:yz.he@outlook.com)
+- **Email:** [yz.he@outlook.it](mailto:yz.he@outlook.it)
